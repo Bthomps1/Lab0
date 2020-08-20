@@ -1,4 +1,4 @@
-# CSC2342-01-F20 Systems Security
+# CSC2342-01-F20 Discrete Structures
 ## Dr. Jason M. Pittman
 
 ## Lab Zero
